@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmet Faruk Dursun</h1>
-<h3 align="center">Research Assistant at Karadeniz Technical University</h3>
+<h3 align="center">Research Assistant at Ondokuz Mayıs University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afdursun" alt="afdursun" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-ahmetfarukdursun@ktu.edu.tr
+ahmetfaruk.dursun@omu.edu.tr
 <p align="left">
 </p>
 
