@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hi%20👋&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e8f4f8&height=200&section=header&text=Hi%20👋&fontSize=60&fontColor=2c3e50&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -20,16 +20,16 @@
 
 ### 👨‍💻 Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afdursun&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afdursun&theme=default" width="65%" />
 
 ### 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afdursun&theme=radical&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afdursun&theme=default&hide_border=true" width="65%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer&fontSize=14&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:ffffff&height=120&section=footer&fontSize=14&fontColor=2c3e50" width="100%"/>
 </div>
