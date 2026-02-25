@@ -27,9 +27,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afdursun&theme=default&hide_border=true" width="65%" />
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:ffffff&height=120&section=footer&fontSize=14&fontColor=2c3e50" width="100%"/>
-</div>
